@@ -66,10 +66,6 @@ const Page = () => {
     amount: 40.56
   };
 
-  const products = {
-    title: "Application status",
-    product: ["Super stay matte ink", "Liquid lipstick"]
-  };
 
   const action = {
     title: "action required",

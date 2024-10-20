@@ -97,7 +97,7 @@ const Page = () => {
 
   const products = {
     title: "Application Status",
-    product: ["Super stay matte ink", "Liquid lipstick"], // Example products
+    product: ["Verify your account", "Complete payroll Verification"]
   };
 
   const action = {
